@@ -6,4 +6,6 @@ When it is not a new file, it will be an old file.
 
 Then it will be wrong.
 
-This file contains a line which will be reviewed by Nicholas.
+I removed a line.  This is a change.
+
+Just chaning stuff
